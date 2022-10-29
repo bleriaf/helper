@@ -32,7 +32,7 @@
     "name": ["Window Instant 3", "Window Instant 3"],
     "weapon": "weapon_smokegrenade",
     "position": [1376.000000, -112.000000, -167.96875],
-    "viewangles": [-26.749666, -168.974548],
+    "viewangles": [-26.749666, -169.066986],
     "grenade": {
       "jump": true
     },
