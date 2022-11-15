@@ -16,8 +16,7 @@
     "grenade": {
       "jump": true,
       "run": 1
-    },
-     "duck": false
+    }
   },
   {
     "name": ["Window Instant 2", "Window Instant 2"],
@@ -27,8 +26,7 @@
     "grenade": {
       "jump": true,
       "run": 1
-    },
-     "duck": false
+    }
   },
   {
     "name": ["Window Instant 3", "Window Instant 3"],
@@ -48,8 +46,7 @@
     "grenade": {
       "jump": true,
       "run": 1
-    },
-     "duck": false
+    }
   },
   {
     "name": ["T Roof", "Middle of Boxes in A"],
