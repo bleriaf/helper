@@ -43,7 +43,7 @@
    {
     "name": ["Window Instant 5", "Window Instant 5"],
     "weapon": "weapon_smokegrenade",
-    "position": [1376.000000, -352.000000, -167.96875],
+    "position": [1296.000000, -352.000000, -103.906189],
     "viewangles": [-41.718292, -173.702087],
     "grenade": {
       "jump": true,
