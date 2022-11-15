@@ -14,9 +14,10 @@
     "position": [1376.000000, -304.000000, -167.96875],
     "viewangles": [-28.043383, -173.946014],
     "grenade": {
-      "jump": true
+      "jump": true,
+      "run": 1
     },
-     "duck": true
+     "duck": false
   },
   {
     "name": ["Window Instant 2", "Window Instant 2"],
@@ -24,9 +25,10 @@
     "position": [1376.000000, -208.000000, -167.96875],
     "viewangles": [-30.103552, -170.887039],
     "grenade": {
-      "jump": true
+      "jump": true,
+      "run": 1
     },
-     "duck": true
+     "duck": false
   },
   {
     "name": ["Window Instant 3", "Window Instant 3"],
@@ -37,6 +39,17 @@
       "jump": true
     },
      "duck": true
+  },
+   {
+    "name": ["Window Instant 5", "Window Instant 5"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1376.000000, -352.000000, -167.96875],
+    "viewangles": [-41.718292, -173.702087],
+    "grenade": {
+      "jump": true,
+      "run": 1
+    },
+     "duck": false
   },
   {
     "name": ["T Roof", "Middle of Boxes in A"],
