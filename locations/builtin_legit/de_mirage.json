@@ -58,6 +58,16 @@
       "run": 1
     }
   },
+   {
+    "name": ["Window Instant 7", "Window Instant 7"],
+    "weapon": "weapon_smokegrenade",
+    "position": [1296.000000, -160.000000, -167.96875],
+    "viewangles": [-29.336910, -169.682312],
+    "grenade": {
+      "jump": true,
+      "run": 1
+    }
+  },
   {
     "name": ["T Roof", "Middle of Boxes in A"],
     "weapon": "weapon_smokegrenade",
